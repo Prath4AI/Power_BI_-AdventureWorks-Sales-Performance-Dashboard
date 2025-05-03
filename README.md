@@ -45,13 +45,13 @@ This project involved analyzing sales, customer, and product performance data fo
 
 | Metric                       | Value    |
 | :--------------------------- | :------- |
-| **Total Revenue**            | ₹ 24.91M |
-| **Total Profit**             | ₹ 10M    |
+| **Total Revenue**            | $ 24.91M |
+| **Total Profit**             | $ 10M    |
 | **Total Orders**             | 25,164   |
 | **Total Returns**            | 1,809    |
 | **Return Rate**              | 2.17%    |
 | **Unique Customers**         | 17,000   |
-| **Avg Revenue per Customer** | ₹ 1,431  |
+| **Avg Revenue per Customer** | $ 1,431  |
 
 ---
 
