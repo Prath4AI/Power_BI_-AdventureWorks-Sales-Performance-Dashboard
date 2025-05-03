@@ -9,7 +9,6 @@ Designed an interactive Power BI dashboard for AdventureWorks, analyzing 25K+ or
 
 ![Image](https://github.com/user-attachments/assets/1269d7f4-b677-4cc0-8970-cfb0deb29038)
 
-Sure — here’s a clean, structured **Project Report** based on your Power BI AdventureWorks project:
 
 ---
 
